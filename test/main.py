@@ -2,7 +2,7 @@ from datetime import date
 import cv2
 import numpy
 
-# img = cv2.imread('img/image.jpeg')
+# img = cv2.imread('./src/img/image.jpeg')
 
 # img = cv2.resize(img, (img.shape[1]*2, img.shape[0]*2))
 

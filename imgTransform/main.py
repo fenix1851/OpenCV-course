@@ -2,7 +2,7 @@ import cv2
 import numpy 
 
 
-img = cv2.imread("img/image.jpeg")
+img = cv2.imread('./src/img/image.jpeg')
 
 # def rotate(img, angle):
 #     h,w = img.shape[:2]
